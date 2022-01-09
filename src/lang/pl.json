@@ -462,6 +462,7 @@
   "FIELD_ADD_PALETTE": "Dodaj paletę",
   "FIELD_CURSOR": "Kursor",
   "FIELD_HOVER": "Hover",
+  "FIELD_OVERRIDE_DEFAULT_BUTTON_ACTION": "Nadpisz domyślny przycisk akcji",
  
   "// 7": "Asset Viewer ---------------------------------------------",
   "ASSET_SEARCH": "Szukaj",
@@ -936,7 +937,7 @@
   "MESSAGE_ADD_UGE_FILES": "Dodaj pliki .uge do folderu projektu assets/music.",
   "MESSAGE_WHAT_ABOUT_MOD": "Otwarzanie plików .mod?",
   "MESSAGE_USE_MOD_FILES": "W celu użycia plików .mod należy w projekcie zmienić sterownik muzyczny z hUGEDriver na GBT Player. Opcję tę można zmienić w 'Ustawieniach'.",
-  "MESSAGE_ENABLE_GBT": "Włącz GBT Player",
+  "MESSAGE_ENABLE_GBT": "Włącz GBT Player"
   "MESSAGE_ADD_MOD_FILES": "Dodaj pliki .mod do folderu projektu assets/music.",
   "MESSAGE_WHAT_ABOUT_UGE": "Odtwarzanie plików .uge?",
   "MESSAGE_USE_UGE_FILES": "W celu użycia plików .uge należy w projekcie zmienić sterownik muzyczny z GTP Player na hUGEDriver. Opcję tę można zmienić w 'Ustawieniach'.",
