@@ -2,7 +2,7 @@
   "RTL": false,
 
   "GBSTUDIO_DESCRIPTION": "Visual retro game maker\nPolish translation by: Reptile (reptile@o2.pl)",
-  "GBSTUDIO_COPYRIGHT": "Distributed under MIT license.\n Translation: 998220219",
+  "GBSTUDIO_COPYRIGHT": "Distributed under MIT license.\n Translation: 1005220221",
  
  "// 1": "UI -------------------------------------------------------",
   "ACTOR": "Aktor",
@@ -17,6 +17,7 @@
   "NAV_BACKGROUNDS": "Tła",
   "NAV_UI_ELEMENTS": "Elementy interfejsu",
   "NAV_MUSIC": "Muzyka",
+  "NAV_SFX": "Dźwięki",
   "NAV_PALETTES": "Palety",
   "NAV_DIALOGUE_REVIEW": "Podgląd dialogów",
   "NAV_BUILD_AND_RUN": "Zbuduj i uruchom",
@@ -500,6 +501,11 @@
   "FIELD_SCRIPTS": "Skrypty",
   "FIELD_COPIED_TO_CLIPBOARD": "Skopiowano do schowka",
   "FIELD_VIEW_GBVM_SYMBOLS": "Wyświetl symbole GBVM",
+  "FIELD_SOUND_EFFECT": "Dźwięk",
+  "FIELD_FILES": "Pliki",
+  "FIELD_BASIC": "Podstawa",
+  "FIELD_EFFECT_INDEX": "Spis efektów",
+  "FIELD_PRIORITY": "Pierwszeństwo",
   
   "// 7": "Asset Viewer ---------------------------------------------",
   "ASSET_SEARCH": "Szukaj",
@@ -738,6 +744,7 @@
   "MENU_BACKGROUNDS": "Tła",
   "MENU_UI_ELEMENTS": "Elementy systemu",
   "MENU_MUSIC": "Muzyka",
+  "MENU_SFX": "Dźwięki",
   "MENU_PALETTES": "Palety",
   "MENU_DIALOGUE_REVIEW": "Podgląd dialogów",
   "MENU_BUILD_AND_RUN": "Dystrybucja",
